@@ -1,6 +1,3 @@
-Here's a simple and short README for your project:
-
-```markdown
 # Task3 - React App with Tailwind CSS v4
 
 A React application built with Create React App and Tailwind CSS v4.
